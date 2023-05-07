@@ -1,6 +1,5 @@
 {
   "name": "wheather_app1",
-  // "homepage": "https://patramonalisa.github.io/Todolist-using-Reactjs",
   "version": "0.1.0",
   "private": true,
   "dependencies": {
@@ -15,8 +14,6 @@
     "web-vitals": "^2.1.4"
   },
   "scripts": {
-    // "predeploy": "npm run build",
-    // "deploy": "gatsby build && gh-pages -d public -b master",
     "start": "react-scripts start",
     "build": "react-scripts build",
     "test": "react-scripts test",
